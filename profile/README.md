@@ -50,7 +50,7 @@ Dupilot 서비스의 주요 기능을 담은 시연 영상입니다.
 
 <br>
 
-## 2. 시스템 아키텍처
+## 2. 포스터
 
 ![Dupilot 시스템 아키텍처](../resource/Dupilot-poster.jpg)
 Dupilot 서비스는 Docker Compose 기반의 아키텍처로 구성되었습니다.  
@@ -92,7 +92,7 @@ SQS를 통해 STT/TTS 파이프라인을 트리거하며, STT-TTS-Worker는 Whis
 
 ### 💻 김현수
 
-- (역할 분담 내용을 여기에 작성해주세요)
+- devops
 
 ### 🔧 장윤호
 
